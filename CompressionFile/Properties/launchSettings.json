@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GZipTest": {
+      "commandName": "Project",
+      "commandLineArgs": "compress А-08955502Cpy.gz гринкард1.pdf"
+    }
+  }
+}
